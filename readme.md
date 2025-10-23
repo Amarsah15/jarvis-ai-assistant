@@ -17,21 +17,17 @@
 
 - [About](#-about-the-project)
 - [Features](#-features)
-- [Demo](#-demo)
 - [Technology Stack](#-technology-stack)
 - [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
-- [Configuration](#-configuration)
 - [Usage](#-usage)
 - [Command Reference](#-command-reference)
 - [Project Structure](#-project-structure)
 - [How It Works](#-how-it-works)
-- [Troubleshooting](#-troubleshooting)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
-- [Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -91,24 +87,7 @@ In today's fast-paced world, hands-free interaction with computers is becoming i
 ### Screenshots
 
 **Main Interface**
-
-```
-============================================================
-JARVIS AI ASSISTANT - Voice Controlled AI Assistant
-============================================================
-
-Available Commands:
-  • 'Open YouTube/Google/Wikipedia' - Open websites
-  • 'What is the time?' - Get current time
-  • 'Open Notepad/Calculator' - Open applications
-  • 'Using artificial intelligence write...' - Generate AI content
-  • 'Reset chat' - Clear conversation history
-  • 'Jarvis quit/exit/goodbye' - Exit program
-============================================================
-
-Jarvis: Hello sir, Jarvis is online and ready to assist you!
-Listening...
-```
+![Main Interface](screenshots/initializing.png)
 
 **Conversation Example**
 
@@ -124,12 +103,6 @@ Listening...
 You said: using artificial intelligence write a short poem about technology
 Jarvis: Content generated and saved successfully sir.
 ```
-
-### Video Demo
-
-[🎥 Watch Demo Video](YOUR_DEMO_VIDEO_LINK_HERE)
-
-_Note: Replace with actual demo video link_
 
 ---
 
@@ -421,7 +394,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 **Your Name**
 
 - Email: amarnath.kumar152003@gmail.com
-- LinkedIn: [LinkedIn](https://linkedin.com/in/Amarnath15)
+- LinkedIn: [Amarnath Kumar](https://linkedin.com/in/Amarnath15)
 - GitHub: [@Amarsah15](https://github.com/Amarsah15)
 - Portfolio: [https://amar-portfolio-psi.vercel.app/](https://amar-portfolio-psi.vercel.app/)
 
