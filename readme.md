@@ -402,14 +402,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-## ⭐ Star History
-
-If you found this project helpful, please consider giving it a star!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Amarsah15/jarvis-ai-assistant&type=Date)](https://star-history.com/#Amarsah15/jarvis-ai-assistant&Date)
-
----
-
 <div align="center">
 
 **Made with ❤️ by [Amarnath Kumar]**
