@@ -391,13 +391,11 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 📧 Contact
 
-**Your Name**
-
+**Amarnath Kumar**
 - Email: amarnath.kumar152003@gmail.com
 - LinkedIn: [Amarnath Kumar](https://linkedin.com/in/Amarnath15)
 - GitHub: [@Amarsah15](https://github.com/Amarsah15)
 - Portfolio: [https://amar-portfolio-psi.vercel.app/](https://amar-portfolio-psi.vercel.app/)
-
 **Project Link**: [https://github.com/Amarsah15/jarvis-ai-assistant](https://github.com/Amarsah15/jarvis-ai-assistant)
 
 ---
